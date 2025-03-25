@@ -6,4 +6,6 @@ It's a single-player puzzle game. The objective is to slide numbered tiles on a 
 ## Setup Your Environment 
    Install Python and Pygame on your system. Python is a Programming language and Pygame is the Graphical User Interface (GUI) library.
    
+## Run code
+To run the code use python main.py
 
